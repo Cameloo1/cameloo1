@@ -24,11 +24,7 @@ robotics, simulations, and the 3D realm.
 
 <div align="center">
 
-## 🔮 Stochastic Systems Mapping
-![Stochastic Colored Topology](./assets/stochastic_topology.gif)
-
-## 💹 Live ES Futures Ticker
-![Market Ticker](./assets/es_ticker.svg)
+| ![Stochastic Colored Topology](./assets/stochastic_topology.gif) | ![Market Ticker](./assets/es_ticker.svg) |
 
 ## ⚙️ Execution: CodeGraph-MCP
 ![CodeGraph Execution](./assets/codegraph_terminal.svg)
