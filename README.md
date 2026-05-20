@@ -24,13 +24,14 @@ robotics, simulations, and the 3D realm.
 
 <div align="center">
 
-## 📊 Market Structure: Volatility Surface
+## 🔮 Stochastic Systems Mapping
+![Stochastic Colored Topology](./assets/stochastic_topology.gif)
 
-*An interactive visualization of implied volatility across strike prices and term structure. (Drag to rotate)*
-
-![Volatility Surface](./assets/volatility_surface.stl)
-
+## 💹 Live ES Futures Ticker
 ![Market Ticker](./assets/es_ticker.svg)
+
+## ⚙️ Execution: CodeGraph-MCP
+![CodeGraph Execution](./assets/codegraph_terminal.svg)
 
 </div>
 
