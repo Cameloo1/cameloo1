@@ -22,6 +22,16 @@ hard about the deterministic bridges between AI intent and real-world
 infrastructure. I also have ambitious plans in quantitative finance, 
 robotics, simulations, and the 3D realm.
 
+<div align="center">
+
+## 📊 Market Structure: Volatility Surface
+
+*An interactive visualization of implied volatility across strike prices and term structure. (Drag to rotate)*
+
+![Volatility Surface](./assets/volatility_surface.stl)
+
+</div>
+
 ## 🌐 Socials
 
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/camelo1)
@@ -33,7 +43,8 @@ robotics, simulations, and the 3D realm.
 
 ## 💻 Tech Stack
 
-![Codex](https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white)![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
