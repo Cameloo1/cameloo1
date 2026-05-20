@@ -22,15 +22,6 @@ hard about the deterministic bridges between AI intent and real-world
 infrastructure. I also have ambitious plans in quantitative finance, 
 robotics, simulations, and the 3D realm.
 
-<div align="center">
-
-| ![Stochastic Colored Topology](./assets/stochastic_topology.gif) | ![Market Ticker](./assets/es_ticker.svg) |
-
-## ⚙️ Execution: CodeGraph-MCP
-![CodeGraph Execution](./assets/codegraph_terminal.svg)
-
-</div>
-
 ## 🌐 Socials
 
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/camelo1)
@@ -59,3 +50,7 @@ robotics, simulations, and the 3D realm.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-FF6B35?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+![Stochastic Colored Topology](./assets/stochastic_topology.gif)
+
+![Stochastic Colored Topology](./assets/stochastic_topology.gif)
