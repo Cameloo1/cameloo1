@@ -22,20 +22,7 @@ hard about the deterministic bridges between AI intent and real-world
 infrastructure. I also have ambitious plans in quantitative finance, 
 robotics, simulations, and the 3D realm.
 
-<div align="center">
-
-<div align="center">
-
-| 🔮 Stochastic Systems Mapping | 💹 Live ES Futures Ticker |
-| :---: | :---: |
-| ![Stochastic Colored Topology](./assets/stochastic_topology.gif) | ![Market Ticker](./assets/es_ticker.svg) |
-
-</div>
-
-## ⚙️ Execution: CodeGraph-MCP
-![CodeGraph Execution](./assets/codegraph_terminal.svg)
-
-</div>
+| ![Stochastic Colored Topology](./assets/stochastic_topology.gif)
 
 ## 🌐 Socials
 
