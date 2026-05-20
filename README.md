@@ -1,5 +1,3 @@
-<div align="center">
-
 ## 🪐 About Me
 
 Hey! I'm Wasif, a self-taught software engineer & developer based in Chicago. 
@@ -23,6 +21,8 @@ building Typai (an embeddable writing intelligence layer), and thinking
 hard about the deterministic bridges between AI intent and real-world 
 infrastructure. I also have ambitious plans in quantitative finance, 
 robotics, simulations, and the 3D realm.
+
+<div align="center">
 
 ## 🌐 Socials
 
