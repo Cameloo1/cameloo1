@@ -22,7 +22,7 @@ hard about the deterministic bridges between AI intent and real-world
 infrastructure. I also have ambitious plans in quantitative finance, 
 robotics, simulations, and the 3D realm.
 
-| ![Stochastic Colored Topology](./assets/stochastic_topology.gif)
+![Stochastic Colored Topology](./assets/stochastic_topology.gif)
 
 ## 🌐 Socials
 
