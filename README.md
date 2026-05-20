@@ -30,6 +30,8 @@ robotics, simulations, and the 3D realm.
 
 ![Volatility Surface](./assets/volatility_surface.stl)
 
+![Market Ticker](./assets/es_ticker.svg)
+
 </div>
 
 ## 🌐 Socials
