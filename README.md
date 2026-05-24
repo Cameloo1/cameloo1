@@ -20,7 +20,7 @@ I'm currently pushing codegraph-mcp toward broader external testing,
 building Typai (an embeddable writing intelligence layer), and thinking 
 hard about the deterministic bridges between AI intent and real-world 
 infrastructure. I also have ambitious plans in quantitative finance, 
-robotics, simulations, and the 3D realm.
+robotics, simulations, and the 3D realm. 
 
 ## 🌐 Socials
 
