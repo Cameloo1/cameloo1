@@ -1,31 +1,16 @@
 ## 🪐 About Me
-
-Hey! I'm Wasif, a self-taught software engineer & developer based in Chicago. 
-I like building software that challenges and interests me, while staying 
-tasteful in design and UI/UX.
-
-I'm motivated by the gap between what looks like it works and 
-what actually does.
-
-I enjoy systems work and applied infrastructure, I'm also drawn to 
-lower-level problems when the higher-level abstraction is hiding something 
-important. At the same time, I like building tools and apps that are on the 
-cutting edge of tech and have an actual impact.
-
-Outside of building, I trade ES futures (six years in markets) and came up 
-through cybersecurity work — SIEM, IAM, threat modeling. Both backgrounds 
-shaped my journey extensively.
-
-I'm currently pushing codegraph-mcp toward broader external testing, 
-building Typai (an embeddable writing intelligence layer), and thinking 
-hard about the deterministic bridges between AI intent and real-world 
-infrastructure. I also have ambitious plans in quantitative finance, 
-robotics, simulations, and the 3D realm. 
-
-## 🌐 Socials
-
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/camelo1)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wasif-am)
+ 
+Hey! I'm **Wasif Amin** — a self-taught software engineer based in Chicago, building solo under [Camelon Systems](https://camelon.app).
+ 
+I like building software that challenges and interests me, while staying tasteful in design and UI/UX. I'm motivated by the gap between what looks like it works and what actually does.
+ 
+I enjoy systems work and applied infrastructure, and I'm drawn to lower-level problems when the higher-level abstraction is hiding something important. At the same time, I like building tools and apps on the cutting edge of tech that have actual impact.
+ 
+Outside of building, I trade ES futures (six years in markets) and came up through cybersecurity work — SIEM, IAM, threat modeling. Both backgrounds shaped how I build.
+ 
+Right now I'm working across AI agent infrastructure, writing intelligence, and market data systems — with longer-horizon ambitions in quantitative finance, robotics, simulations, and the 3D realm.
+ 
+**Elsewhere:** [camelon.app](https://camelon.app) · [dbn-bookcheck](https://cameloo1.github.io/dbn-bookcheck/) · [keldr.dev](https://keldr.dev) · [Diamond Edge Trading](https://diamondedgetrading.com) · [X](https://x.com/camelo1)
 
 ## 📜 Certifications
 
