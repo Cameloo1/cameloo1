@@ -8,27 +8,27 @@
     <text x="30" y="45" fill="#c9d1d9" font-size="22" font-weight="bold" class="text">/ES Futures</text>
     <text x="30" y="65" fill="#8b949e" font-size="12" class="mono">E-mini S&P 500 Matrix</text>
 
-    <text x="30" y="110" fill="#c9d1d9" font-size="32" class="mono">7221.66</text>
-    <text x="30" y="135" fill="#8b949e" font-size="14" class="mono">Vol: 1,492,817</text>
-    <text x="30" y="160" fill="#FF6B35" font-size="14" class="mono">POC: 7218.70</text>
+    <text x="30" y="110" fill="#c9d1d9" font-size="32" class="mono">7217.23</text>
+    <text x="30" y="135" fill="#8b949e" font-size="14" class="mono">Vol: 1,222,678</text>
+    <text x="30" y="160" fill="#FF6B35" font-size="14" class="mono">POC: 7214.54</text>
 
     <text x="400" y="25" fill="#8b949e" font-size="10" class="mono" text-anchor="start">TPO / VOL PROFILE</text>
-    <rect x="400" y="40" width="122" height="6" fill="#30363d" rx="2"/>
-<rect x="400" y="48" width="87" height="6" fill="#30363d" rx="2"/>
-<rect x="400" y="56" width="56" height="6" fill="#30363d" rx="2"/>
-<rect x="400" y="64" width="117" height="6" fill="#30363d" rx="2"/>
-<rect x="400" y="72" width="69" height="6" fill="#30363d" rx="2"/>
-<rect x="400" y="80" width="16" height="6" fill="#30363d" rx="2"/>
-<rect x="400" y="88" width="117" height="6" fill="#30363d" rx="2"/>
-<rect x="400" y="96" width="142" height="6" fill="#FF6B35" rx="2"/>
-<rect x="400" y="104" width="111" height="6" fill="#30363d" rx="2"/>
-<rect x="400" y="112" width="61" height="6" fill="#30363d" rx="2"/>
-<rect x="400" y="120" width="83" height="6" fill="#30363d" rx="2"/>
-<rect x="400" y="128" width="23" height="6" fill="#30363d" rx="2"/>
-<rect x="400" y="136" width="142" height="6" fill="#30363d" rx="2"/>
-<rect x="400" y="144" width="147" height="6" fill="#30363d" rx="2"/>
-<rect x="400" y="152" width="91" height="6" fill="#30363d" rx="2"/>
+    <rect x="400" y="40" width="56" height="6" fill="#30363d" rx="2"/>
+<rect x="400" y="48" width="25" height="6" fill="#30363d" rx="2"/>
+<rect x="400" y="56" width="25" height="6" fill="#30363d" rx="2"/>
+<rect x="400" y="64" width="132" height="6" fill="#30363d" rx="2"/>
+<rect x="400" y="72" width="150" height="6" fill="#30363d" rx="2"/>
+<rect x="400" y="80" width="124" height="6" fill="#30363d" rx="2"/>
+<rect x="400" y="88" width="136" height="6" fill="#30363d" rx="2"/>
+<rect x="400" y="96" width="50" height="6" fill="#FF6B35" rx="2"/>
+<rect x="400" y="104" width="72" height="6" fill="#30363d" rx="2"/>
+<rect x="400" y="112" width="19" height="6" fill="#30363d" rx="2"/>
+<rect x="400" y="120" width="144" height="6" fill="#30363d" rx="2"/>
+<rect x="400" y="128" width="126" height="6" fill="#30363d" rx="2"/>
+<rect x="400" y="136" width="49" height="6" fill="#30363d" rx="2"/>
+<rect x="400" y="144" width="70" height="6" fill="#30363d" rx="2"/>
+<rect x="400" y="152" width="37" height="6" fill="#30363d" rx="2"/>
 
 
-    <text x="570" y="185" fill="#484f58" font-size="10" class="mono" text-anchor="end">Last Updated: 2026-08-08 12:56 UTC</text>
+    <text x="570" y="185" fill="#484f58" font-size="10" class="mono" text-anchor="end">Last Updated: 2026-08-08 14:35 UTC</text>
 </svg>
