@@ -10,7 +10,7 @@ Outside of building, I trade ES futures (six years in markets) and came up throu
  
 Right now I'm working across AI agent infrastructure, writing intelligence, and market data systems — with longer-horizon ambitions in quantitative finance, robotics, simulations, and the 3D realm.
  
-**Elsewhere:** [camelon.app](https://camelon.app) · [dbn-bookcheck](https://cameloo1.github.io/dbn-bookcheck/) · [keldr.dev](https://keldr.dev) · [Diamond Edge Trading](https://diamondedgetrading.com) · [X](https://x.com/camelo1)
+**Elsewhere:** [camelon.app](https://camelon.app) · [DFRI](https://cameloo1.github.io/dfri/) · [dbn-bookcheck](https://cameloo1.github.io/dbn-bookcheck/) · [keldr.dev](https://keldr.dev) · [Diamond Edge Trading](https://diamondedgetrading.com) · [X](https://x.com/camelo1)
 
 ## 📜 Certifications
 
